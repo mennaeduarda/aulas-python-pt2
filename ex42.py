@@ -1,5 +1,7 @@
 #Animação simples
 
+import time
+
 print("Iniciando")
 time.sleep(1)
 print(".")
